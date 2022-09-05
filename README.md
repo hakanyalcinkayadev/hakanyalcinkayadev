@@ -1,6 +1,12 @@
 # Hakan Yalcinkaya
 > Bu Ornegi Umarim Ilerde Degistiririm :))
 
+Not: Bu GitHub Hesabını Eğitimlerde Demo Hesabı Olarak Kullanıyorum. 
+
+[GitHub Hesabıma Ulaşmak İçin Tıklayınız](https://github.com/hakanyalcinkaya)
+
+************
+
 - 👋 Hi, I’m @hakanyalcinkayadev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
